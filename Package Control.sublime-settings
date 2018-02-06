@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"EditorConfig",
+		"Emmet",
+		"IMESupport",
+		"Japanize",
+		"Package Control",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-contrib-stylelint",
+		"Sublimerge Pro",
+		"SummitLinter",
+		"Tagify",
+		"W3CValidators"
+	]
+}
